@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @komal921
-- 👀 I’m interested in Devops
+- 👀 I’m Computer scientist
 - 🌱 I’m currently learning Devops
 - 📫 How to reach me ...komalnaveed921@gmail.com
 
